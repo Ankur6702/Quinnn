@@ -35,7 +35,7 @@ This repository contains the description and link of all the github repositories
 - **Community Groups**: Users can create or join community groups based on their interests, allowing them to connect with others who share similar experiences and engage in conversations on more specific topics related to the LGBTQ+ community.
 - **Messaging**: A private messaging feature for users to communicate with each other and build connections.
 
-Note: Not all features are not implemented yet!
+Note: All features are not implemented yet!
 
 ## Authors
 
