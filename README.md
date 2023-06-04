@@ -29,13 +29,11 @@ This repository contains the description and link of all the github repositories
 ## Features
 - **User profile**: Users can create and personalize their profiles to showcase their interests and experiences.
 - **Dashboard**: A space for users to share their thoughts, experiences, and ideas with the Quinnn community.
-- **Blogs**: A dedicated section for users to share and read articles on various topics related to the LGBTQ+ community (to be added in next version).
+- **Blogs**: A dedicated section for users to share and read articles on various topics related to the LGBTQ+ community.
 - **Resources**: A comprehensive list of local support groups, advocacy organizations, and other helpful resources for the LGBTQ+ community.
 - **Events**: A calendar of upcoming LGBTQ+ events in the user's area or virtually, allowing them to stay connected with their community.
-- **Community Groups**: Users can create or join community groups based on their interests, allowing them to connect with others who share similar experiences and engage in conversations on more specific topics related to the LGBTQ+ community.
-- **Messaging**: A private messaging feature for users to communicate with each other and build connections.
-
-Note: All features are not implemented yet!
+- **Community Groups**: Users can create or join community groups based on their interests, allowing them to connect with others who share similar experiences and engage in conversations on more specific topics related to the LGBTQ+ community (To be added in future versions).
+- **Messaging**: A private messaging feature for users to communicate with each other and build connections (To be added in future versions).
 
 ## Authors
 
